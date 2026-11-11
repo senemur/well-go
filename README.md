@@ -66,4 +66,4 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
     ```
 
 ---
-Bu proje bir mezuniyet projesi olarak geliştirilmiştir.
+This project was developed as a graduation project together with Zehra Karataş.
